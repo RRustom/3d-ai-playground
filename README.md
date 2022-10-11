@@ -1,4 +1,4 @@
-#TODO
+#Experimenting with different AI models
 
 ## 3D Mesh generation
 
@@ -12,10 +12,6 @@
 - https://github.com/NasirKhalid24/CLIP-Mesh
 - https://github.com/vsitzmann/light-field-networks (rendering)
 
-## Texture generation
-
-- Honestly just use DALL-E or Stable Diffusion
-
 ## Lighting (lighting estimation/simulation)
 
 - https://style-light.github.io/
@@ -23,4 +19,3 @@
 - https://lllyasviel.github.io/PaintingLight/
 -
 
-## Web interface
