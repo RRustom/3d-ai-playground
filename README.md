@@ -1,4 +1,4 @@
-#Experimenting with different AI models
+# Experimenting with different AI models
 
 ## 3D Mesh generation
 
